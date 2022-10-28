@@ -1,4 +1,6 @@
-# About my Project
+# SnakeMatPlot
+
+## About my Project
 
 SnakeMatPlot is a project developed in Python (Jupyter Notebook) using the Pandas and MatPlotLib libraries that counts snakes on the continent.
 
